@@ -16,5 +16,5 @@
 (она разархивирована) и архивировать в формате .zip . Полученный результат поместить 
 в папку с игрой ./minecraft/resourcepacks .
 
-## Вне категории
+## Вне категории.
 [redserver.su/forum](https://redserver.su/forum/topic/23978-reshenie-problemy-otobrazheniya-tekstur-kultur/) - обсуждение на одном форуме.
